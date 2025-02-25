@@ -4,7 +4,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.UUID;
 import output.Output;
-
+ git
 public class Producto {
     private String id;
     private String referencia;
